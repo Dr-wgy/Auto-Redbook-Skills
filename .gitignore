@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+.idea/
+
+# 测试与覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 日志与生成输出
+*.log
+logs/
+output/
+
+# 虚拟环境
+.venv/
+
+# 操作系统
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 个人隐私敏感信息
+.env
+config/secrets.json
+
+# 临时与备份
+*.tmp
+*.bak
+*.origin
+
+
+.idea/
